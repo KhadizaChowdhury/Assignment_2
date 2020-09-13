@@ -71,7 +71,7 @@ input{
 	padding: 10px 20px;
     background: transparent;
     border: none;
-    border: 1px solid black;
+    border: 1px solid #97aaad;
 }
 input:focus{
 	outline: none;
