@@ -62,7 +62,6 @@ h4{color:#97aaad}
 	padding-right: 5px;
 	background-color:white;
 	border-radius: 50%;
-	border-color: #dbe4e5;
 	margin: auto;
 	border: 1px solid #97aaad;
 }
@@ -70,7 +69,8 @@ h4{color:#97aaad}
         color: #97aaad;
 }
 input{
-	padding: 10px 20px;
+    color:white;
+    padding: 10px 20px;
     background: transparent;
     border: none;
     border: 1px solid #97aaad;
