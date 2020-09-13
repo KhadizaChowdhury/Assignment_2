@@ -63,7 +63,11 @@ h4{color:#97aaad}
 	background-color:white;
 	border-radius: 50%;
 	margin: auto;
+        color:black;
 	border: 1px solid #97aaad;
+}
+.m {
+color:#bbccce;
 }
 input{
     padding: 10px 20px;
