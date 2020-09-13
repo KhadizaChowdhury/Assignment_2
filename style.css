@@ -103,7 +103,8 @@ input:focus{
 .btn{
 	background: #4caf50;
 	color: white;
+	border: 1px solid #4caf50;
 	font-size: 18px;
- font-weight: 650;
+        font-weight: 650;
 	width: 340px !important;
 }
