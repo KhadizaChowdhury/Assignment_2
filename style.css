@@ -69,10 +69,9 @@ h4{color:#97aaad}
 .m {
 color:#bbccce;
 }
-input{
+input{color:#212f79;
     padding: 10px 20px;
     background: transparent;
-    border: none;
     border: 1px solid #97aaad;
 }
 input:focus{
